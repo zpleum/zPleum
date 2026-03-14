@@ -1,4 +1,4 @@
-# zPleum - Full-stack & Java/Python Developer
+# 🕹️ zPleum - Full-stack & Java/Python Developer
 
 <p align="center">
   <img src="https://i.postimg.cc/GtCLVZnM/Hyprx.png" alt="Header Image" style="width:30%; max-width:600px; margin-right:15px;"/>
