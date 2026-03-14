@@ -1,8 +1,8 @@
 # zPleum 🕹️
 
 <p align="center">
-  <img src="[https://i.postimg.cc/GtCLVZnM/Hyprx.png](https://i.postimg.cc/GtCLVZnM/Hyprx.png)" alt="Header Image" style="width:30%; max-width:600px;"/>
-  <img src="[https://i.postimg.cc/4ywzHV6J/Hyprv.png](https://i.postimg.cc/4ywzHV6J/Hyprv.png)" alt="Header Image" style="width:30%; max-width:600px;"/>
+  <img src="https://i.postimg.cc/GtCLVZnM/Hyprx.png" alt="Header Image" style="width:30%; max-width:600px;"/>
+  <img src="https://i.postimg.cc/4ywzHV6J/Hyprv.png" alt="Header Image" style="width:30%; max-width:600px;"/>
 </p>
 
 ---
