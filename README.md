@@ -58,7 +58,7 @@ Velocity proxy plugin for **packet hooking & logging**.
 
 <p align="center">
   <a href="https://www.zpleum.site"><img src="https://img.shields.io/badge/Website-zpleum.dev-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
-  <a href="https://www.facebook.com/wiraphat.makwong"><img src="https://img.shields.io/badge/Facebook-Wiraphat-Makwong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/wiraphat.makwong"><img src="https://img.shields.io/badge/Facebook-Wiraphat_Makwong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://discord.com/users/zPleum"><img src="https://img.shields.io/badge/Discord-zPleum-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://github.com/zPleum"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
