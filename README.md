@@ -1,8 +1,8 @@
 # 🕹️ zPleum - Full-stack & Java/Python Developer
 
 <p align="center">
-  <img src="https://i.postimg.cc/GtCLVZnM/Hyprx.png" alt="Header Image" style="width:30%; max-width:600px; margin-right:15px;"/>
-  <img src="https://i.postimg.cc/4ywzHV6J/Hyprv.png" alt="Header Image" style="width:30%; max-width:600px; margin-left:15px;"/>
+  <img src="https://i.postimg.cc/GtCLVZnM/Hyprx.png" alt="Header Image" style="width:30%; max-width:600px; margin-right:40px;"/>
+  <img src="https://i.postimg.cc/4ywzHV6J/Hyprv.png" alt="Header Image" style="width:30%; max-width:600px;"/>
 </p>
 
 ---
